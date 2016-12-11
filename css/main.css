@@ -160,12 +160,12 @@ img{
 
 #me {
 	margin-top: 10px;
-	text-align: justify;
+	text-align: left;
 
 }
 
 p a{
-	color:chartreuse;
+	color:palevioletred;
 }
 /**********************
 	footer
